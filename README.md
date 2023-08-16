@@ -1,8 +1,18 @@
-# React + Vite
+# Ignite Feed
+Este é um projeto feito para aprendizado de alguns fundamentos do React.js.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Conceitos aprendidos
+1. Componentização
+2. propriedades
+3. Estado
+4. imutabilidade
+5. styles-components
 
-Currently, two official plugins are available:
+## Para rodar:
+1. Para Instalar as dependências, vamos rodar ->  npm install
+2. Para executar o projeto, vamos rodar ->  npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Imagem do projeto
+<p align="center">
+  <img width=800" src="/src/assets/cara-Ignite-feed.png">
+</p>
